@@ -37,6 +37,6 @@ body {
   background-image: url("../img/color.jpg");
 
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-size: cover;
 }
