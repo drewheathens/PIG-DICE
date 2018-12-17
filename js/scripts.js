@@ -1,15 +1,14 @@
 
 function rollDice() {
-  var player1 = {
-    firstName:"";
-    secondName:"";
+  var secondPlayer = {
+    Name:"";
     score:(die1 + die2);
   }
-  var player2 = {
+  var firstPlayer = {
     firstName:"";
-    secondName:"";
-    score:(die1 + die2);    
+    score:(die1 + die2);
   }
+  
   var die1=document.getElementById('die1');
   var die2=document.getElementById('die2');
   var status = document.getElementById('status');
