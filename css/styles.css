@@ -1,5 +1,5 @@
 #button{
-  background-color: gray; /
+  background-color: gray;
  border: none;
  color: white;
  padding: 13 x 22px;
@@ -12,9 +12,31 @@ div.dice{
   float: left;
   width: 50px;
   background: white;
-  border: #95 20px solid;
+  border: #100 20px solid;
   font-size: 20px;
   text-align: justify;
-  margin: 5px;
+  margin: 8px;
 
+}
+h1{
+  text-decoration: underline;
+  font-style: oblique;
+  text-align: justify;
+  font-weight: bolder;
+}
+h2{
+  text-align: justify;
+  text-decoration: underline;
+  font-weight: bold;
+}
+/* .container{
+    background-image: image('../img/feather-3010848_340.jpg');
+} */
+
+.body {
+  background-image: url("../img/3010848_340.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
