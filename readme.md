@@ -31,7 +31,7 @@ All that's required of the user is to press play button, your scores will be dis
 
 The project is still under development.
 
-#**CONTRIBUTION**
+# **CONTRIBUTION**
 
 When contributing to this repository, please first discuss the change you wish to make via issue.
 
