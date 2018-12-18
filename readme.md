@@ -5,7 +5,7 @@ An online dice game where two players get to compete.
 
 | *BEHAVIOUR*        |  *INPUT*       |  *OUTPUT*      |
 |-----------------|-------------|-------------|
-|display default as zero|player clicks play|display score|
+|display default as zero|player clicks roll, round total displayed|display  total score|
 
 
 
