@@ -5,13 +5,13 @@ h1{
   font-weight: bolder;
 }
 h2{
-  text-align: justify;
-  text-decoration: underline;
+  text-align: center;
+  /*text-decoration: underline;/*/
   font-weight: bold;
 }
 
 body {
-  background-image: url("../img/color.jpg");
+  background-image: url("../img/feather.jpg");
 
   background-position: center;
   background-repeat: repeat;
